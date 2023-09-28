@@ -38,15 +38,17 @@ rownames(Data_Cars)
 Data_Cars <- mtcars
 
 Data_Cars$cyl
-
-
+Data_Cars$mpg
+Data_Cars$hp
+Data_Cars$wt
+Data_Cars$gear
 
 
 # Sort Variable Values
 # To sort the values, use the sort() function:
 Data_Cars <- mtcars
 sort(Data_Cars$cyl)
-
+sort(Data_Cars$qsec)
 
 
 
