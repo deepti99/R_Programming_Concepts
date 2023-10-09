@@ -1,0 +1,5 @@
+v = c(15,26,9,7,10,0,9,15)
+print("Original vector:")
+print(v)
+print("Test whether the value > 10 or not:")
+print(v > 10)
